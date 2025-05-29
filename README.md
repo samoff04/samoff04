@@ -7,8 +7,9 @@
 
 - 🌱 I’m currently learning **React.js,Django,Flask.**
 
-- ⚡ Fun fact : **I write code like I play guitar — sometimes it's flawless, sometimes it's jazz 🎸💻.**
+- ⚡ Fun fact **I write code like I play guitar — sometimes it's flawless, sometimes it's jazz 🎸💻.**
 
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
