@@ -10,6 +10,13 @@
 - ⚡ Fun fact **I write code like I play guitar — sometimes it's flawless, sometimes it's jazz 🎸💻.**
 
 <h3 align="left">Connect with me:</h3>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/samoff04/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p>
+
 <p align="left">
 </p>
 
