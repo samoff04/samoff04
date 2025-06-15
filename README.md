@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! , I'm Samarth Varshney 👋</h1>
 
 <p align="center">
-  🚀 Aspiring Full Stack Developer | AI/ML Enthusiast | CSE Undergrad | Guitarist 🎸
+  🚀 Aspiring Full Stack Developer | AI/ML Enthusiast | Guitarist 🎸
 </p>
 
 <p align="center">
@@ -11,8 +11,7 @@
 ---
 
 ### 👨‍💻 About Me
-
-- 🎓 Second Year Student at Manipal University Jaipur, B.Tech in Computer Science and Engineering  
+- 🎓 CSE Undergrad
 - 🌐 Passionate about **Full Stack Web Development**, **AI/ML**, and building Intelligent Systems  
 - ⚙️ Currently working on:
   - 🔐 `Backend Technologies & Frameworks`
