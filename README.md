@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samoff04" alt="samoff04" /></a> </p>
 
-- 😁 I’m currently learning **Django,Flask,Flutter & Backend Technologies.**
+- 😁 I’m currently focussing on **Django,Flask,Flutter & Backend Technologies.**
 
-- 😂 Fun fact **I write code like I play guitar — sometimes it's flawless, sometimes it's jazz 🎸💻.**
+- 😊 Fun fact **I write code like I play guitar — sometimes it's flawless, sometimes it's jazz 🎸💻.**
 
 <h3 align="left">Connect with me:</h3>
 
