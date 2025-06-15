@@ -1,29 +1,88 @@
-<h1 align="center">Hi 👋, I'm Samarth Varshney</h1>
-<h3 align="center">A Tech Enthusiast | Web Developer from India</h3>
+<h1 align="center">Hey there! , I'm Samarth Varshney 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samoff04&label=Profile%20views&color=0e75b6&style=flat" alt="samoff04" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samoff04" alt="samoff04" /></a> </p>
-
-- 😁 I’m currently focussing on **Django,Flask,Flutter & Backend Technologies.**
-
-- 😊 Fun fact **I write code like I play guitar — sometimes it's flawless, sometimes it's jazz 🎸💻.**
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/samarth-varshney-03ab4a354/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+<p align="center">
+  🚀 Aspiring Full Stack Developer | AI/ML Enthusiast | CSE Undergrad | Guitarist 🎸
 </p>
 
-<p align="left">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring%20Full%20Stack%20Developer;AI%20%26%20ML%20Explorer;Open%20Source%20Contributor;Lifelong%20Learner&center=true&width=500&height=45">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samoff04&show_icons=true&locale=en&layout=compact&cache_seconds=3600" alt="samoff04" /></p>
+### 👨‍💻 About Me
 
+- 🎓 Second Year Student at Manipal University Jaipur, B.Tech in Computer Science and Engineering  
+- 🌐 Passionate about **Full Stack Web Development**, **AI/ML**, and building Intelligent Systems  
+- ⚙️ Currently working on:
+  - 🔐 `Backend Technologies & Frameworks`
+- 🎸 Fun fact: I write code with rhythm – because I’m a guitarist too 🎶
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samoff04&show_icons=true&locale=en" alt="samoff04" /></p>
+---
+
+### 🛠️ Tech Stack
+
+#### 💻 Languages  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
+
+#### 🌐 Web & ML  
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=flat&logo=Jupyter&logoColor=white)
+
+#### 🛢️ Tools & Platforms  
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+  
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samoff04&show_icons=true&theme=radical" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samoff04&layout=compact&theme=radical" width="45%"/>
+</p>
+
+---
+
+### ⚡ Featured Projects
+
+| Project | Description |
+|--------|-------------|
+| 🔐 [Linguist](https://github.com/samoff04/Linguist) | A sleek language converter app that slices through language barriers with style. |
+| 🌦️ [Weathervane](https://github.com/samoff04/Weathervane) | Know your weather. Feel the vibe. One city at a time. |
+| 🧠 [LetsFind](https://github.com/samoff04/LetsFind) | Clean and interactive dictionary interface with beautiful emoji-themed backgrounds. |
+| 🎮 [TicTacToe](https://github.com/samoff04/TicTacToe) | An elegant and smooth Tic Tac Toe game designed for both solo and multiplayer fun. |
+| 🎨 [AlphaHunt](https://github.com/samoff04/AlphaHunt) | A quiet battle of letters. Minimal. Intense. Refined. |
+
+---
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/samarth-varshney-03ab4a354"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/samoff04"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a>
+</p>
+
+---
+
+### 🧠 Quote I Believe In
+
+> *"The best way to predict the future is to invent it."* — Alan Kay
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=samoff04&label=Profile%20Views&color=0e75b6&style=flat" alt="samoff04" />
+</p>
