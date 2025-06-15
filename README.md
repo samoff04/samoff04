@@ -60,11 +60,11 @@
 
 | Project | Description |
 |--------|-------------|
-| 🔐 [Linguist](https://github.com/samoff04/Linguist) | A sleek language converter app that slices through language barriers with style. |
-| 🌦️ [Weathervane](https://github.com/samoff04/Weathervane) | Know your weather. Feel the vibe. One city at a time. |
-| 🧠 [LetsFind](https://github.com/samoff04/LetsFind) | Clean and interactive dictionary interface with beautiful emoji-themed backgrounds. |
-| 🎮 [TicTacToe](https://github.com/samoff04/TicTacToe) | An elegant and smooth Tic Tac Toe game designed for both solo and multiplayer fun. |
-| 🎨 [AlphaHunt](https://github.com/samoff04/AlphaHunt) | A quiet battle of letters. Minimal. Intense. Refined. |
+| 🌍🔁🗣️ [Linguist](https://github.com/samoff04/Linguist) | A sleek language converter app that slices through language barriers with style. |
+| 🌦️🔍🌈 [Weathervane](https://github.com/samoff04/Weathervane) | Know your weather. Feel the vibe. One city at a time. |
+| 📖🔤🧠 [LetsFind](https://github.com/samoff04/LetsFind) | Clean and interactive dictionary interface with beautiful emoji-themed backgrounds. |
+| ❌⭕🎮 [TicTacToe](https://github.com/samoff04/TicTacToe) | An elegant and smooth Tic Tac Toe game designed for both solo and multiplayer fun. |
+| 🔡🔠🧩 [AlphaHunt](https://github.com/samoff04/AlphaHunt) | A quiet battle of letters. Minimal. Intense. Refined. |
 
 ---
 
