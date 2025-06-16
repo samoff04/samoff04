@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me
 - 🎓 CSE Undergrad
-- 🌐 Passionate about **Full Stack Web Development**, **AI/ML**, and building Intelligent Systems  
+- 🌐 Passionate about **Full Stack Web Development**, **AI/ML**, and building **Intelligent Systems**  
 - ⚙️ Currently working on:
   - 🔐 `Backend Technologies & Frameworks`
 - 🎸 Fun fact: I write code with rhythm – because I’m a guitarist too 🎶
