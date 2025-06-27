@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring%20Full%20Stack%20Developer;AI%20%26%20ML%20Explorer;Open%20Source%20Contributor;Lifelong%20Learner;Guitar%20%26%20Code%20is%20My%20Mashup&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Web%20Developer;AI%20%26%20ML%20Explorer;Open%20Source%20Contributor;Lifelong%20Learner;Guitar%20%2B%20Code%20%3D%20My%20Mashup&center=true&width=500&height=45">
 </p>
 
 ---
