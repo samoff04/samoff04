@@ -59,6 +59,7 @@
 
 | Project | Description |
 |--------|-------------|
+| 🎨🤖🖼️ [Artify](https://github.com/samoff04/Artify) | A creative tool that brings your imagination to life with AI-driven visuals. |
 | 🌍🔁🗣️ [Linguist](https://github.com/samoff04/Linguist) | A sleek language converter app that slices through language barriers with style. |
 | 🌦️🔍🌈 [Weathervane](https://github.com/samoff04/Weathervane) | Know your weather. Feel the vibe. One city at a time. |
 | 📖🔤🧠 [LetsFind](https://github.com/samoff04/LetsFind) | Clean and interactive dictionary interface with beautiful emoji-themed backgrounds. |
