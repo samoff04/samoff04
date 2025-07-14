@@ -20,7 +20,7 @@
 ---
 
 <h1 align="center">🚀 Tech Stack & Tools Showcase</h1>
-<p align="center">A curated list of technologies, frameworks, tools, and platforms I use 💻⚙️📊</p>
+<p align="center">A curated list of Technologies, Frameworks, Tools, and Platforms I use 💻⚙️📊</p>
 
 ---
 
@@ -57,6 +57,7 @@
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </p>
 
 ---
@@ -73,6 +74,7 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
 </p>
 
 ---
@@ -81,6 +83,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ---
@@ -104,6 +107,14 @@
 
 ---
 
+## 🎨 Design Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+</p>
+
+---
+
 ## 📊 Visualization & BI Tools
 
 <p>
@@ -113,8 +124,16 @@
 
 ---
 
-<p align="center">✨ More coming soon... Stay tuned! ✨</p>
+## 🚀 Deployment & Hosting Platforms
 
+<p>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Pages-121013?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+<p align="center">✨ More coming soon... Stay tuned! ✨</p>
   
 ---
 
