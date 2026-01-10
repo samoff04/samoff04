@@ -176,7 +176,7 @@
 
 <p align="center">  
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samoff04&layout=donut&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samoff04&layout=compact&theme=tokyonight)
 
 </p>
 
