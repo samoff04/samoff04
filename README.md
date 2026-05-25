@@ -58,6 +58,8 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 </p>
 
 ---
@@ -173,10 +175,9 @@
 ---
 
 ### 📈 GitHub Stats
-
-<p align="center">  
+<p>
   
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samoff04&layout=compact&theme=tokyonight)
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samoff04&theme=tokyonight)
 
 </p>
 
@@ -186,12 +187,12 @@
 
 | Project | Description |
 |--------|-------------|
-| 🎨🤖🖼️ [Artify](https://github.com/samoff04/Artify) | A creative tool that brings your imagination to life with AI-driven visuals. |
-| 🌍🔁🗣️ [Linguist](https://github.com/samoff04/Linguist) | A sleek language converter app that slices through language barriers with style. |
-| 🌦️🔍🌈 [Weathervane](https://github.com/samoff04/Weathervane) | Know your weather. Feel the vibe. One city at a time. |
-| 📖🔤🧠 [LetsFind](https://github.com/samoff04/LetsFind) | Clean and interactive dictionary interface with beautiful emoji-themed backgrounds. |
-| ❌⭕🎮 [TicTacToe](https://github.com/samoff04/TicTacToe) | An elegant and smooth Tic Tac Toe game designed for both solo and multiplayer fun. |
-| 🔡🔠🧩 [AlphaHunt](https://github.com/samoff04/AlphaHunt) | A quiet battle of letters. Minimal. Intense. Refined. |
+| [Artify](https://github.com/samoff04/Artify) | A creative tool that brings your imagination to life with AI-driven visuals. |
+| [Linguist](https://github.com/samoff04/Linguist) | A sleek language converter app that slices through language barriers with style. |
+| [Weathervane](https://github.com/samoff04/Weathervane) | Know your weather. Feel the vibe. One city at a time. |
+| [LetsFind](https://github.com/samoff04/LetsFind) | Clean and interactive dictionary interface with beautiful emoji-themed backgrounds. |
+| [TicTacToe](https://github.com/samoff04/TicTacToe) | An elegant and smooth Tic Tac Toe game designed for both solo and multiplayer fun. |
+| [AlphaHunt](https://github.com/samoff04/AlphaHunt) | A quiet battle of letters. Minimal. Intense. Refined. |
 
 ---
 
