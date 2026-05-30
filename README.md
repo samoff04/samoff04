@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! , I'm Samarth Varshney 👋</h1>
 
 <p align="center">
-  🚀 Aspiring Full Stack Developer | AI/ML Enthusiast | Guitarist 🎸
+    Aspiring Full-Stack Developer | AI/ML Enthusiast | Data Analyst
 </p>
 
 <p align="center">
@@ -11,20 +11,20 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 CSE Undergrad
-- 🌐 Passionate about **Full Stack Web Development**, **AI/ML**, and building **Intelligent Systems**  
-- ⚙️ Currently working on:
-  - 🔐 `Backend Technologies & Frameworks`
-- 🎸 Fun fact: I write code with rhythm – because I’m a guitarist too 🎶
+- CSE Undergrad
+- Passionate about **Software Development**, **AI Innovation**, and building **Intelligent Systems**  
+- Currently working on:
+  - `Backend Technologies & Machine Learning`
+- Fun fact: I write code with rhythm – because I’m a guitarist too
 
 ---
 
-<h1 align="center">🚀 Tech Stack & Tools Showcase</h1>
-<p align="center">A curated list of Technologies, Frameworks, Tools, and Platforms I use 💻⚙️📊</p>
+<h1 align="center">Tech Stack & Tools Showcase</h1>
+<p align="center">A curated list of Technologies, Frameworks, Tools, and Platforms I use</p>
 
 ---
 
-## 📌 Programming Languages
+## Programming Languages
 
 <p>
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -36,7 +36,7 @@
 
 ---
 
-## 🌐 Web Development
+## Web Development
 
 ### 🔹 Frontend
 
@@ -64,7 +64,7 @@
 
 ---
 
-## 🧠 Data Science & Machine Learning
+## Data Science & Machine Learning
 
 <p>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -81,7 +81,7 @@
 
 ---
 
-## 💾 Database & Querying
+## Database & Querying
 
 <p>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -91,7 +91,7 @@
 
 ---
 
-## 🛠️ Tools & IDEs
+## Tools & IDEs
 
 <p>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
@@ -101,7 +101,7 @@
 
 ---
 
-## 🧰 Productivity & Office Tools
+## Productivity & Office Tools
 
 <p>
   <img src="https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
@@ -110,7 +110,7 @@
 
 ---
 
-## 🎨 Design Tools
+## Design Tools
 
 <p>
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
@@ -118,7 +118,7 @@
 
 ---
 
-## 📊 Visualization & BI Tools
+## Visualization & BI Tools
 
 <p>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
@@ -127,7 +127,7 @@
 
 ---
 
-## 🚀 Deployment & Hosting Platforms
+## Deployment & Hosting Platforms
 
 <p>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
@@ -136,17 +136,18 @@
   <img src="https://img.shields.io/badge/GitHub%20Pages-121013?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-## 🔗 API Development & Integration
+## API Development & Integration
 
 <p>
   <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=api&logoColor=white"/>
   <img src="https://img.shields.io/badge/API_Integration-0A66C2?style=for-the-badge&logo=plug&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
 
 ---
 
-## 🐧 Operating Systems & Shell
+## Operating Systems & Shell
 
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
@@ -154,7 +155,7 @@
 
 ---
 
-## 🧰 DevOps & Version Control
+## DevOps & Version Control
 
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -164,7 +165,7 @@
 
 ---
 
-## 🎯 Data Apps & Dashboarding
+## Data Apps & Dashboarding
 
 <p>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
@@ -174,7 +175,7 @@
   
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 <p>
   
 ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samoff04&theme=tokyonight)
@@ -183,7 +184,7 @@
 
 ---
 
-### ⚡ Featured Projects
+### Featured Projects
 
 | Project | Description |
 |--------|-------------|
@@ -196,7 +197,7 @@
 
 ---
 
-### 📫 Let's Connect
+### Let's Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/samarth-varshney-03ab4a354"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"></a>
@@ -205,7 +206,7 @@
 
 ---
 
-### 🧠 Quote I Believe In
+### Quote I Believe In
 
 > *"The best way to predict the future is to invent it."* — Alan Kay
 
