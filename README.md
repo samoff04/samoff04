@@ -1,16 +1,18 @@
-<h1 align="center">Hey there! , I'm Samarth Varshney 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=700&lines=Hey+there!+%F0%9F%91%8B+I%27m+Samarth+Varshney" alt="Typing SVG" />
+</p>
 
 <p align="center">
     Aspiring Full-Stack Developer | AI/ML Enthusiast | Data Analyst
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Web%20Developer;AI%20%26%20ML%20Explorer;Open%20Source%20Contributor;Lifelong%20Learner;Guitar%20%2B%20Code%20%3D%20My%20Mashup&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&lines=Problem+Solver;Build+%E2%80%A2+Break+%E2%80%A2+Improve;Open-Source+Contributor;Building+with+Code" alt="Typing SVG" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 🧑‍💻 About Me
 - CSE Undergrad
 - Passionate about **Software Development**, **AI Innovation**, and building **Intelligent Systems**  
 - Currently working on:
@@ -24,7 +26,7 @@
 
 ---
 
-## Programming Languages
+### Programming Languages
 
 <p>
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -36,7 +38,7 @@
 
 ---
 
-## Web Development
+### Web Development
 
 ### 🔹 Frontend
 
@@ -64,7 +66,7 @@
 
 ---
 
-## Data Science & Machine Learning
+### Data Science & Machine Learning
 
 <p>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -81,7 +83,7 @@
 
 ---
 
-## Database & Querying
+### Database & Querying
 
 <p>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -91,7 +93,7 @@
 
 ---
 
-## Tools & IDEs
+### Tools & IDEs
 
 <p>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
@@ -101,7 +103,7 @@
 
 ---
 
-## Productivity & Office Tools
+### Productivity & Office Tools
 
 <p>
   <img src="https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
@@ -110,7 +112,7 @@
 
 ---
 
-## Design Tools
+### Design Tools
 
 <p>
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
@@ -118,7 +120,7 @@
 
 ---
 
-## Visualization & BI Tools
+### Visualization & BI Tools
 
 <p>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
@@ -127,7 +129,7 @@
 
 ---
 
-## Deployment & Hosting Platforms
+### Deployment & Hosting Platforms
 
 <p>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
@@ -136,7 +138,9 @@
   <img src="https://img.shields.io/badge/GitHub%20Pages-121013?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-## API Development & Integration
+---
+
+### API Development & Integration
 
 <p>
   <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=api&logoColor=white"/>
@@ -147,7 +151,7 @@
 
 ---
 
-## Operating Systems & Shell
+### Operating Systems & Shell
 
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
@@ -155,7 +159,7 @@
 
 ---
 
-## DevOps & Version Control
+### DevOps & Version Control
 
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -165,7 +169,7 @@
 
 ---
 
-## Data Apps & Dashboarding
+### Data Apps & Dashboarding
 
 <p>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
