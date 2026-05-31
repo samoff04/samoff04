@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=700&lines=Hey+there!+%F0%9F%91%8B+I%27m+Samarth+Varshney" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=false&lines=Hey+there!+I'm+Samarth+Varshney" />
 </p>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&lines=Problem+Solver;Build+%E2%80%A2+Break+%E2%80%A2+Improve;Open-Source+Contributor;Building+with+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00C4CC&center=true&vCenter=true&repeat=true&lines=Passionate+Web+Developer;Problem+Solver;Open-Source+Contributor;Building+Scalable+Systems" />
 </p>
 
 ---
