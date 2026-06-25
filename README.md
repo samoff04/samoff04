@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-    Aspiring Full-Stack Developer | AI/ML Enthusiast | Data Analyst
+      Full-Stack Developer | Competitive Programmer | Data Analyst
 </p>
 
 <p align="center">
@@ -12,178 +12,44 @@
 
 ---
 
-### Overview →
-- CSE Undergrad
-- Passionate about **Software Development**, **AI Innovation**, and building **Intelligent Systems**  
-- Currently working on:
-  - `Backend Technologies & Machine Learning`
-- Fun fact: I write code with rhythm – because I’m a guitarist too
+## About Me
+
+- Computer Science Undergraduate
+- Passionate about Software Development, AI Innovation, and Problem Solving
+- Interested in building real-world products that solve meaningful problems
+- Always learning, building, and improving
 
 ---
 
-<h1 align="center">Tech Stack & Tools Showcase</h1>
-<p align="center">A curated list of Technologies, Frameworks, Tools, and Platforms I use</p>
+## Tech Stack
 
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,html,css,react,nextjs,vue,angular,nodejs,express,spring,flask,fastapi,firebase,mongodb,mysql,tailwind,bootstrap,docker,git,github,linux,postman,vscode,idea,vercel,netlify,heroku,render&perline=8" />
+</p>
 
-### Programming Languages
-
-<p>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-FF6F00?style=flat-square" />
+  <img src="https://img.shields.io/badge/AutoCAD-E51B23?style=flat-square&logo=autodesk&logoColor=white" />
+  <img src="https://img.shields.io/badge/MS_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white" />
 </p>
 
 ---
 
-### Web Development
-
-### 🔹 Frontend
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/ReactJS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-</p>
-
-### 🔹 Backend
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-</p>
-
----
-
-### Data Science & Machine Learning
-
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-2061bd?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-46B0AC?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
-</p>
-
----
-
-### Database & Querying
-
-<p>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge"/>
-</p>
-
----
-
-### Tools & IDEs
-
-<p>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-</p>
-
----
-
-### Productivity & Office Tools
-
-<p>
-  <img src="https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AutoCAD-e51b23?style=for-the-badge&logo=autodesk&logoColor=white"/>
-</p>
-
----
-
-### Design Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-</p>
-
----
-
-### Visualization & BI Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-</p>
-
----
-
-### Deployment & Hosting Platforms
-
-<p>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
-<img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub%20Pages-121013?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
----
-
-### API Development & Integration
-
-<p>
-  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=api&logoColor=white"/>
-  <img src="https://img.shields.io/badge/API_Integration-0A66C2?style=for-the-badge&logo=plug&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
-</p>
-
----
-
-### Operating Systems & Shell
-
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
-
----
-
-### DevOps & Version Control
-
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
----
-
-### Data Apps & Dashboarding
-
-<p>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-</p>
-
-<p align="center">✨ More coming soon... Stay tuned! ✨</p>
-  
----
-
-### GitHub Stats
+## GitHub Statistics
 <p>
   
 ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samoff04&theme=tokyonight)
@@ -192,34 +58,34 @@
 
 ---
 
-### Featured Projects
+## Currently Exploring
 
-| Project | Description |
-|--------|-------------|
-| [Artify](https://github.com/samoff04/Artify) | A creative tool that brings your imagination to life with AI-driven visuals. |
-| [Linguist](https://github.com/samoff04/Linguist) | A sleek language converter app that slices through language barriers with style. |
-| [Weathervane](https://github.com/samoff04/Weathervane) | Know your weather. Feel the vibe. One city at a time. |
-| [LetsFind](https://github.com/samoff04/LetsFind) | Clean and interactive dictionary interface with beautiful emoji-themed backgrounds. |
-| [TicTacToe](https://github.com/samoff04/TicTacToe) | An elegant and smooth Tic Tac Toe game designed for both solo and multiplayer fun. |
-| [AlphaHunt](https://github.com/samoff04/AlphaHunt) | A quiet battle of letters. Minimal. Intense. Refined. |
+- Advanced Backend Development
+- System Design Fundamentals
+- Machine Learning Projects
+- Cloud & Deployment Technologies
+- Open Source Contributions
 
 ---
 
-### Let's Connect
+## Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/samarth-varshney-03ab4a354"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/samoff04"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a>
+  <a href="https://linkedin.com/in/samarth-varshney-03ab4a354">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/samoff04">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
 </p>
 
 ---
 
-### Quote I Believe In
-
-> *"The best way to predict the future is to invent it."* — Alan Kay
-
----
+<p align="center">
+  "First solve the problem. Then write the code."
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=samoff04&label=Profile%20Views&color=0e75b6&style=flat" alt="samoff04" />
+  <img src="https://komarev.com/ghpvc/?username=samoff04&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
