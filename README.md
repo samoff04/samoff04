@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00C4CC&center=true&vCenter=true&repeat=true&lines=Passionate+Web+Developer;Problem+Solver;Open-Source+Contributor;Building+Scalable+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00C4CC&center=true&vCenter=true&repeat=true&lines=Building+Scalable+Systems;5-Star+HackerRank;Kaggle+Contributor;Open+Source+Contributor" />
 </p>
 
 ---
@@ -24,7 +24,7 @@
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,html,css,react,nextjs,vue,angular,nodejs,express,spring,flask,fastapi,firebase,mongodb,mysql,tailwind,bootstrap,docker,git,github,linux,postman,vscode,idea,vercel,netlify,heroku,render&perline=8" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts,html,css,react,nextjs,vue,angular,nodejs,express,spring,flask,fastapi,firebase,supabase,mongodb,mysql,tailwind,bootstrap,docker,git,github,linux,postman,vscode,idea,vercel,netlify,heroku" />
 </p>
 
 <p align="center">
@@ -60,11 +60,11 @@
 
 ## Currently Exploring
 
-- Advanced Backend Development
-- System Design Fundamentals
-- Machine Learning Projects
-- Cloud & Deployment Technologies
-- Open Source Contributions
+- Scalable Backend Architecture
+- System Design & Distributed Systems
+- Machine Learning & Deep Learning Systems
+- Cloud Deployment & DevOps Practices
+- Open Source Engineering Contributions
 
 ---
 
