@@ -24,19 +24,27 @@
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts,html,css,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,flask,fastapi,firebase,supabase" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,tailwind,bootstrap,docker,git,github" />
+  <img src="https://skillicons.dev/icons?i=spring,flask,fastapi,firebase,supabase" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,postman,vscode,idea,vercel,netlify,heroku" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,tailwind,bootstrap,docker,git" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github,linux,postman,vscode,idea,vercel" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=netlify,heroku" />
 </p>
 
 <p align="center">
